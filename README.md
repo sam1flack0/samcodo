@@ -1,7 +1,6 @@
 - Hi, I’m @samcodo
-- I’m interested in becoming a software engineer, video games, anime, and running.
-- I’m currently learning python, web development, and game design.
-- I’m looking to collaborate on any sort of projects that can boost my resume.
+- I’m interested in becoming a software engineer, video games, anime, running, and reading personal development books.
+- I’m currently learning full stack development, game development, AI, and ethical hacking. 
 - How to reach me: email (samriveracs@gmail.com) phone (773-554-4413)
 
 <!---
